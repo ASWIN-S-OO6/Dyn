@@ -4,7 +4,7 @@ import java.util.List;
 
 import static org.nth.Dyn.$;
 
-public class Main {
+public class Test {
     public static void main(String[] args) {
         // 1. Multiple Value Representations
         Dyn agent = $("James Bond");
